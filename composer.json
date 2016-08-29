@@ -1,0 +1,17 @@
+{
+    "name": "reillo/magento-trexuna-com",
+    "description": "Regner Atillo magento.trexuna.com website repo",
+    "keywords": ["website"],
+    "homepage": "https://github.com/reillo/magento.trexuna.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Regner Atillo",
+            "email": "atilloregner@gmail.com",
+            "homepage": "http://me.trexuna.com/"
+        }
+    ],
+    "require": {
+        "php": "^5.3.2 || ^7.0",
+    }
+}
