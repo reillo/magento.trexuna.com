@@ -2,13 +2,13 @@
     "name": "reillo/magento-trexuna-com",
     "description": "Regner Atillo magento.trexuna.com website repo",
     "keywords": ["website"],
-    "homepage": "http://magento.trexuna.com",
+    "homepage": "http://me.trexuna.com",
     "license": "MIT",
     "authors": [
         {
             "name": "Regner Atillo",
             "email": "atilloregner@gmail.com",
-            "homepage": "http://magento.trexuna.com/"
+            "homepage": "http://me.trexuna.com/"
         }
     ],
     "require": {
